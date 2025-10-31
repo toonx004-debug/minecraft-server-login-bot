@@ -1,6 +1,6 @@
 # Minecraft Server Login Bot
 
-A Node.js bot that automates logging into a Minecraft server. This tool can be configured to handle multiple accounts and perform repeated logins.
+Node.js bot that automates logging into a Minecraft server. This tool can be configured to handle multiple accounts and perform repeated logins.
 
 ## Features
 
